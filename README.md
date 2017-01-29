@@ -13,5 +13,5 @@ The figure below shows the CPU of the processor running a program written in the
 
 ![](https://github.com/jaimedantas/16-bits-Processor-FPGA/blob/master/cpu_print.png)
 
-If you wish to see more detail about this project you can read the full report in PDF:
+If you wish to see more details about this project you can read the full report in PDF:
 [Report in Portuguese](https://github.com/jaimedantas/16-bits-Processor-FPGA/blob/master/sistemas_digitais.pdf)
