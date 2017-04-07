@@ -1,4 +1,4 @@
-#16 Bits Processor in FPGA
+# 16 Bits Processor in FPGA
 This is a project of a 16 bits processor for Field-Programmable Gate Array (FPGA). It has the datapath and all files you will need to build a multicicle processor with 7 instructions: ADD, SUB, AND, OR, NOT, LDA & STA. 
 
 The set of instructions is shown in the figure below.
